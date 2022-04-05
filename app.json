@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.arli.minhasfinancas"
+    },
+    "android": {
+      "package": "com.arli.minhasfinancas"
+    }
   },
   "name": "minhasfinancas"
 }
